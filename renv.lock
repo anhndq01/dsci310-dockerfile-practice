@@ -37,6 +37,14 @@
       "Hash": "d031a520bc2c989180c772dbc6851088",
       "Requirements": []
     },
+    "fun": {
+      "Package": "fun",
+      "Version": "0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "8d5ea146fba89f98fc35b5e59c5f4a42",
+      "Requirements": []
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.16.0",
